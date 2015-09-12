@@ -21,5 +21,8 @@
   "bugs": {
     "url": "https://github.com/jmwohl/Openframe-GPIO/issues"
   },
-  "homepage": "https://github.com/jmwohl/Openframe-GPIO#readme"
+  "homepage": "https://github.com/jmwohl/Openframe-GPIO#readme",
+  "dependencies": {
+    "pi-gpio": "0.0.7"
+  }
 }
