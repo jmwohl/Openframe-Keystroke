@@ -7,7 +7,7 @@ var brightness = require('brightness');
  */
 
 module.exports = function(socket, pubsub) {
-  console.log('loading keystrokes plugin', socket, pubsub);
+  console.log('loading keystrokes plugin');
   // bind to or emit additional socket / pubsub events here,
   // and do with them what you please.
 
